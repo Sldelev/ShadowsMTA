@@ -1,0 +1,8 @@
+<meta>
+    <info name="Shadows Mapping" author="Liberty (borsuk)" type="script" version="0.6" />
+
+    <script src="generate.lua" type="client" cache="false"/>
+
+    <file src="shadow.fx"/>
+    <file src="mta-helper.fx"/>
+</meta>
